@@ -11,7 +11,7 @@ import queue
 import os
 import streamlit as st
 
-key = "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"
+key = "..."
 
 client = OpenAI(api_key=key)
 
