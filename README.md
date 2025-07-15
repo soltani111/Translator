@@ -1,10 +1,10 @@
 # **Real-time Translator**:
 ### It's a real-time speach-to-text, speach-to-speach translator with the optional avatar that can lipsync real time. The backbone of this web-app is OpenAI whisper, and translator api, and the web-app developed using streamlit.
 To start the program, install the requirements.txt on your directory using "pip install -requirements.txt".
+The main code base is in inference.py, and the executable format of the program is in the run_script.bat.
 
+[Paper](http://arxiv.org/abs/2008.10010) | [Demo Video](https://drive.google.com/file/d/12k-Bt4s1PbUVsJBe6tgKRxhJYFWcd3qA/view?usp=sharing) | 
 
-[Paper](http://arxiv.org/abs/2008.10010) | [Project Page](http://cvit.iiit.ac.in/research/projects/cvit-projects/a-lip-sync-expert-is-all-you-need-for-speech-to-lip-generation-in-the-wild/) | [Demo Video](https://youtu.be/0fXaDCZNOJc) | 
- 
 ----------
 **Highlights**
 ----------
