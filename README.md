@@ -6,9 +6,9 @@ The main code base is in inference.py, and the executable format of the program 
 [Paper](http://arxiv.org/abs/2008.10010) | [Demo Video](https://drive.google.com/file/d/12k-Bt4s1PbUVsJBe6tgKRxhJYFWcd3qA/view?usp=sharing) | 
 
 ### Web-app environment
-![GitHub Logo](https://drive.google.com/file/d/1dLM8I4cvRGLWCq7kZKld8cXHA463yvcF/view?usp=sharing)
+![My Screenshot](Translator/01.png)
 ### Working Condition
-![GitHub Logo](https://drive.google.com/file/d/11u0b8TWqcmWJQCAxCsYhWjn1SGdYzBBi/view?usp=sharing)
+![My Screenshot](Translator/001.png)
 
 
 ----------
